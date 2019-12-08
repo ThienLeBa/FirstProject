@@ -6,6 +6,7 @@ public class TestMain {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello \nThien Le \niFactory \n");
+		System.out.println("The first check in");
 	}
 
 }
