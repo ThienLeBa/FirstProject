@@ -10,6 +10,7 @@ public class TestNameCheckIn {
 	
 	static void nameCheckIn(String a){
 		System.out.println("Check in by " + a);
+		
 	}
 
 }
