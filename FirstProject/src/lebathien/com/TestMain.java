@@ -8,5 +8,9 @@ public class TestMain {
 		System.out.println("Hello \nThien Le \niFactory \n");
 		System.out.println("The first check in");
 	}
+	
+	void tesFuntion(String a){
+		System.out.println("Input is " + a);
+	}
 
 }
