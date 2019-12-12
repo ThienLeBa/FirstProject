@@ -6,6 +6,8 @@ public class TestNameCheckIn {
 		// TODO Auto-generated method stub
 
 		nameCheckIn("Thien le");
+		System.out.println("https://github.com/ThienLeBa/FirstProject");
+		
 	}
 	
 	static void nameCheckIn(String a){
