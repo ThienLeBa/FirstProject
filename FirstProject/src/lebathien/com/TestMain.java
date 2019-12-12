@@ -7,6 +7,7 @@ public class TestMain {
 
 		System.out.println("Hello \nThien Le \niFactory \n");
 		System.out.println("The first check in");
+		System.out.Printlb("LBT");
 	}
 	
 	void tesFuntion(String a){
